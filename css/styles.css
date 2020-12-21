@@ -1,0 +1,29 @@
+
+.header{
+	background-color: rgba(51, 102, 255, 0.5);
+	text-shadow: 5px 5px 4px white;
+	padding-bottom: 5px;
+}
+p{
+	text-indent: 20px;
+}
+footer{
+	padding: 10px;
+	background-color: rgba(51, 102, 255, 0.5);
+	text-decoration: underline;
+	padding-bottom: 10px;
+}
+img{
+	box-shadow: none;
+	border-style: none;
+	padding-top: 15px;
+}
+
+.skills-column{
+	height: 200px;
+    background-color: #cccccc;
+    background-image: linear-gradient(red, yellow, green);
+}
+.intro-column,.main-text{
+	color: white;
+}
